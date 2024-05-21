@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.displayvideo {
+  background-image: url("https://wallpapercave.com/wp/wp2358669.jpg");
+  background-size: cover; /* or 'contain' */
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.title {
+  text-shadow: 2px 2px 5px black;
+}
